@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Specify the directory
+dir="/path/to/your/directory"
+
+# Loop over all .cpp files in the directory
+# change the extintions to rename the specify file
+for file in "$dir"/*.cpp; do
+ # Get the base name of the file
+ base=$(basename "$file")
+ # Rename the file
+ mv "$file" "$dir/0$base"
+done
+
