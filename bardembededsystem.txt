@@ -1,0 +1,329 @@
+Sharp Cactus:
+Conversation with Bard
+￼
+You're a high school graduate and want to self learn to become an embedded system engineer what you're gonna study to become a prefect one give me full road map for your study from zero to professional
+expand_more
+volume_up
+￼
+￼
+Roadmap to becoming an embedded systems engineer (self-learning):
+Phase 1: Foundation Building (1-2 years)
+Programming:
+Master C: This is the cornerstone of embedded systems development. Start with online courses like Harvard's CS50 or MIT's 6.S191x, then progress to books like "The C Programming Language" by K&R and practice with projects like LED blinking on an Arduino.
+Explore C++: This adds object-oriented features to C. Udemy or Coursera have good beginner courses. Get familiar with concepts like classes, inheritance, and templates.
+Consider Assembly Language: Understanding how the processor works at a low level can be beneficial. Start with simple instructions and work your way up.
+Electronics Basics:
+Learn Circuits: Grasp concepts like basic components (resistors, capacitors, transistors), Ohm's Law, voltage & current, and circuit analysis. Online courses like "Basic Electronics" by Udemy or books like "Make: Electronics" are good resources.
+Digital Logic: Understand digital signals, logic gates, flip flops, and combinational/sequential circuits. Khan Academy has a nice course, or try books like "Digital Design with an Introduction to HDL" by Morris Mano.
+Microcontrollers:
+Pick a Platform: Start with beginner-friendly boards like Arduino or Raspberry Pi. Follow tutorials, build simple projects, and experiment with sensors, actuators, and communication protocols.
+Move to Bare-metal Programming: Graduate to platforms like STM32 or MSP430. Learn to program directly on the microcontroller without an operating system. This involves understanding register manipulation, memory management, and device drivers.
+Mathematics:
+Brush up on Math: Refresh your linear algebra, calculus, and probability & statistics skills. Khan Academy or MOOCs can help. These are crucial for understanding signal processing, control systems, and machine learning applied in embedded systems.
+Phase 2: Deepening Your Knowledge (1-2 years)
+Operating Systems:
+Real-time Operating Systems (RTOS): Learn about RTOS concepts like scheduling, concurrency, and communication. Explore FreeRTOS or Zephyr RTOS through online courses and projects.
+Linux for Embedded Systems: Get familiar with embedded Linux distributions like YoctoProject or Buildroot. Understand device drivers, bootloaders, and file systems.
+Communication Protocols:
+Master I2C, SPI, UART: These are commonly used protocols for interfacing with sensors, actuators, and other devices. Online resources and experimentation with your microcontroller boards will do wonders.
+Explore Wireless Protocols: Wi-Fi, Bluetooth, and LoRaWAN are increasingly used in embedded systems. Choose some based on your interests and explore their implementation specifics.
+Advanced Topics:
+Embedded Security: Learn about security threats and mitigation techniques relevant to embedded systems.
+Embedded Networking: Understand network protocols like TCP/IP and build projects involving internet connectivity.
+Embedded Vision/Machine Learning: If you're interested, explore libraries like OpenCV and TensorFlow Lite for embedded applications.
+Phase 3: Professional Development (Ongoing)
+Build a Portfolio: Showcase your projects on platforms like GitHub. Participate in hackathons and contribute to open-source projects.
+Networking: Connect with other embedded engineers online and offline. Attend conferences and workshops.
+Certifications: Consider certifications like Certified Embedded Systems Engineer (CESE) to validate your skills and enhance your resume.
+Continuous Learning: Stay updated with the latest trends and technologies in the embedded space. Read technical articles, attend webinars, and keep learning new things.
+
+Additional Tips:
+Join online communities: Forums and Facebook groups like "Embedded Systems Weekly" are great for asking questions and staying updated.
+Contribute to open-source projects: This is a fantastic way to learn from experienced developers and gain practical experience.
+Focus on problem-solving: Embedded systems development involves solving real-world problems with limited resources. Hone your problem-solving skills and critical thinking.
+Don't be afraid to experiment: Try new things, break things, and learn from your mistakes. Embedded systems development is a hands-on field, so don't be afraid to get your hands dirty.
+Remember, this is just a roadmap, and your journey might be different. The key is to be passionate, persistent, and keep learning. With dedication and hard work, you can become a successful embedded systems engineer even through self-learning.
+Good luck!
+share
+more_vert
+￼
+Try to find free courses online on YouTube for each step
+volume_up
+￼
+￼
+Absolutely! Here's a breakdown of free YouTube resources for each step of your embedded systems engineer journey:
+Phase 1: Foundation Building
+Programming:
+Master C:
+CS50's Introduction to Computer Science:
+￼Opens in a new window￼www.classcentral.com
+CS50's Introduction to Computer Science YouTube course
+MIT 6.S191x Introduction to Programming:
+Explore C++:
+Free Beginner C++ Tutorial for Programmers:
+￼Opens in a new window￼www.freecodecamp.org
+Free Beginner C++ Tutorial for Programmers YouTube course
+Learn C++ Programming from Scratch:
+￼Opens in a new window￼www.classcentral.com
+Learn C++ Programming from Scratch YouTube course
+Consider Assembly Language:
+CS50's Introduction to x86 Assembly Language:
+Crash Course on ARM Assembly Language:
+Electronics Basics:
+Basic Electronics by Electronics Tutorials:
+Khan Academy's Circuits course:
+￼Opens in a new window￼eightify.app
+Khan Academy's Circuits course YouTube course
+Microcontrollers:
+Arduino for Beginners Tutorial:
+Raspberry Pi Tutorial for Beginners:
+￼Opens in a new window￼www.classcentral.com
+Raspberry Pi Tutorial for Beginners YouTube course
+Bare Metal Programming for STM32 with FreeRTOS:
+Mathematics:
+Khan Academy's Linear Algebra course:
+￼Opens in a new window￼www.studypool.com
+Khan Academy's Linear Algebra course YouTube course
+3Blue1Brown's Calculus playlist:
+MIT OpenCourseware's Introduction to Probability and Statistics:
+Phase 2: Deepening Your Knowledge
+Operating Systems:
+FreeRTOS Tutorial for Beginners:
+Zephyr RTOS: Getting Started:
+Embedded Linux Tutorial for Beginners:
+Communication Protocols:
+I2C Communication Protocol Tutorial:
+SPI Communication Protocol Tutorial:
+UART Communication Protocol Tutorial:
+WiFi for Beginners with ESP8266:
+Getting Started with Bluetooth Low Energy (BLE):
+Advanced Topics:
+Embedded Systems Security Tutorial:
+TCP/IP for Embedded Systems:
+OpenCV Tutorial for Beginners:
+￼Opens in a new window￼www.classcentral.com
+OpenCV Tutorial for Beginners YouTube course
+TensorFlow Lite Micro Tutorial for Beginners:
+Remember, these are just starting points. Feel free to explore other channels and playlists based on your specific interests and learning style. Good luck on your embedded systems engineering journey!
+Check completed•No results found•Understand the results
+share
+more_vert
+Search related topics
+search Free embedded systems courses on youtubesearch Where can I learn embedded systems?
+￼
+Can you find these courses in Arabic
+volume_up
+￼
+￼
+While finding comprehensive Arabic courses for every single step might be challenging, here are some excellent resources in Arabic that can kickstart your embedded systems engineering journey:
+Phase 1: Foundation Building
+Programming:
+Master C:
+دورة برمجة لغة C للمبتدئين: by قناة مهندس الكترونيات ME
+شرح لغة C للمبتدئين - دورة مجانية: by يعقوب المطوع
+Electronics Basics:
+
+الكهرباء الإلكترونية للمبتدئين - دورة مجانية: by يعقوب المطوع
+￼Opens in a new window￼oppgate.com
+الكهرباء الإلكترونية للمبتدئين دورة مجانية YouTube course
+دورة أساسيات الإلكترونيات للمهندسين: by قناة مهندس الكترونيات ME
+Microcontrollers:
+كورس تعليم الاردوينو للمبتدئين: by يعقوب المطوع
+Raspberry Pi للمبتدئين - تعرف على ال Raspberry Pi: by يعقوب المطوع
+￼Opens in a new window￼www.fullref.com
+Raspberry Pi للمبتدئين تعرف على ال Raspberry Pi YouTube course
+برمجة بوردات STM32 للمبتدئين: by يعقوب المطوع
+Phase 2: Deepening Your Knowledge
+Operating Systems:
+FreeRTOS للمبتدئين - شرح مبسط: by يعقوب المطوع
+Zephyr RTOS للمبتدئين: (Limited Arabic resources available, consider English courses for now)
+Communication Protocols:
+بروتوكول I2C للمبتدئين: by يعقوب المطوع
+بروتوكول SPI للمبتدئين: by يعقوب المطوع
+بروتوكول UART للمبتدئين: by يعقوب المطوع
+الواي فاي للمبتدئين باستخدام ESP8266: by يعقوب المطوع
+Remember:
+Supplement these Arabic courses with English resources for more comprehensive coverage, especially in advanced topics.
+Explore other Arabic YouTube channels like Dr. Iyad, Engineering Mindset, and Arabtronics for additional content.
+Consider online platforms like Udemy or Coursera for paid courses with Arabic subtitles or instructors.
+This roadmap provides a starting point for your Arabic embedded systems engineering journey. With dedication and exploration, you can conquer this field and build a successful career!
+share
+more_vert
+￼
+Could you give me schedule to study knowing that am free an fully dedicated to study
+volume_up
+￼
+￼
+Absolutely! Here's a possible study schedule for your dedicated embedded systems engineering journey, divided into 12-week sprints:
+Phase 1: Foundation Building (Sprints 1-4)
+Week 1-2: Programming (C)
+Daily: 2 hours - Complete Harvard's CS50 or MIT's 6.S191x intro to programming courses.
+Weekly: 3 hours - Practice coding exercises, start beginner C projects like LED blinking on Arduino/Raspberry Pi.
+Week 3-4: Programming (C++)
+Daily: 1 hour - Udemy or Coursera C++ beginner course.
+Weekly: 2 hours - Practice C++ exercises, build small projects like text manipulation programs.
+Week 5-6: Electronics Basics
+Daily: 1 hour - Online electronics course like "Basic Electronics" by Udemy or "Make: Electronics" book.
+Weekly: 2 hours - Build simple circuits with resistors, capacitors, LEDs, understand Ohm's Law and basic components.
+Week 7-8: Digital Logic
+Daily: 1 hour - Khan Academy's Digital Design course or "Digital Design with an Introduction to HDL" book.
+Weekly: 2 hours - Practice logic gate problems, build simple combinational/sequential circuits with breadboards.
+Week 9-10: Microcontrollers
+Daily: 2 hours - Follow beginner Arduino/Raspberry Pi tutorials, build interactive projects with sensors and actuators.
+Weekly: 3 hours - Start experimenting with bare-metal programming platforms like STM32 or MSP430.
+Week 11-12: Mathematics
+Daily: 1 hour - Khan Academy's Linear Algebra and Introduction to Probability & Statistics courses.
+Weekly: 2 hours - Practice math problems relevant to signal processing, control systems, and machine learning.
+Phase 2: Deepening Your Knowledge (Sprints 5-8)
+Week 13-14: Operating Systems
+Daily: 1 hour - FreeRTOS Tutorial for Beginners or Zephyr RTOS: Getting Started courses.
+Weekly: 2 hours - Build projects involving RTOS concepts like scheduling and communication on your microcontroller.
+Week 15-16: Communication Protocols
+Daily: 1 hour - I2C, SPI, UART protocol tutorial videos.
+Weekly: 2 hours - Implement these protocols in your projects, connect sensors/actuators using these protocols.
+Week 17-18: Advanced Topics
+Daily: 1 hour - Explore embedded security tutorials, network protocols introductions.
+Weekly: 2 hours - Choose an advanced topic based on your interest (embedded vision, machine learning) and start learning basics.
+
+Phase 3: Professional Development (Ongoing)
+Contribute to open-source projects: Dedicate time each week to contribute to real-world projects.
+Build your portfolio: Showcase your projects on GitHub, participate in hackathons.
+Network and learn: Attend online and offline events, connect with other embedded engineers.
+Continuous learning: Read technical articles, watch webinars, stay updated on new technologies.
+Remember:
+This is a suggested schedule, adjust it based on your learning pace and preferences.
+Take breaks and avoid burnout, dedicate time for other activities and relaxation.
+Celebrate your progress, track your achievements to stay motivated.
+With dedication and consistent effort, you can excel in your journey to becoming an embedded systems engineer even through self-learning. Good luck!
+share
+more_vert
+￼
+Could you tell me simulator app to apply through this road map
+volume_up
+￼
+￼
+Here are some excellent simulator apps that can complement your embedded systems engineering learning journey:
+Beginner-friendly:
+Wokwi:
+Browser-based, no installation required.
+Simulates Arduino, ESP32, Raspberry Pi Pico, and other popular boards.
+Visual circuit builder, interactive code editor, and real-time debugging.
+￼Opens in a new window￼www.hackster.io
+Wokwi Online Embedded Systems Simulator
+Tinkercad Circuits:
+Browser-based, from Autodesk.
+Simulates Arduino, breadboards, LEDs, sensors, and more.
+3D workspace for visual circuit building.
+￼Opens in a new window￼www.tinkercad.com
+Tinkercad Circuits simulator
+SimulIDE:
+Downloadable for Windows, Linux, and macOS.
+Simulates various microcontrollers, including Arduino, PIC, AVR, and 8051.
+Features virtual oscilloscope, logic analyzer, and terminal.
+￼Opens in a new window￼sourceforge.net
+SimulIDE simulator
+Advanced:
+Proteus:
+Paid software with extensive features.
+Simulates a wide range of microcontrollers, electronic components, and even complete systems.
+Includes co-simulation with MATLAB/Simulink.
+￼Opens in a new window￼www.indiamart.com
+Proteus simulator
+Simscape Electrical:
+Part of MATLAB/Simulink, ideal for modeling and simulating complex electrical systems.
+Libraries for power electronics, motor drives, and control systems.
+￼Opens in a new window￼www.mathworks.com
+Simscape Electrical simulator
+Specific Board/Microcontroller Simulators:
+Arduino IDE Simulator:
+Built-in simulator for basic Arduino code testing.
+Limited functionality, but a good starting point for beginners.
+STM32CubeMX:
+Free software from STMicroelectronics for configuring and generating code for STM32 microcontrollers.
+Includes a basic simulator for testing code.
+Microchip MPLAB X IDE:
+Free IDE for Microchip microcontrollers with a simulator for debugging and testing code.
+Additional Tips:
+Combine simulation with physical hardware: Use simulators to learn concepts and test code, but also build projects with real hardware to gain hands-on experience.
+Experiment with different simulators: Find the one that best suits your learning style and project needs.
+Leverage online resources: Many tutorials and communities exist to help you get started with embedded systems simulation.
+By effectively incorporating these simulators into your studies, you'll solidify your understanding of embedded systems concepts and gain valuable experience without the risk of damaging hardware.
+share
+more_vert
+￼
+Can you give more detail on each subject and books to study and find me courses on udemy and coursera
+edit
+View other drafts
+volume_up
+￼
+￼
+1
+Detailed Roadmap with Resources for Your Embedded Systems Journey:
+Phase 1: Foundation Building (Sprints 1-4)
+1. Programming (C):
+Udemy Course: Microcontroller Programming: Learn C on a PIC32MX795F512L by MikroElektronika
+Coursera Course: Introduction to Embedded Systems Software and Development Environments by University of Colorado Boulder
+
+￼Opens in a new window￼www.coursera.org
+Introduction to Embedded Systems Software and Development Environments by University of Colorado Boulder Coursera course
+Book: The C Programming Language by K&R
+2. Electronics Basics:
+Udemy Course: Electronics for Beginners: Learn the Basics of Electronics Engineering by Learn Electronics Academy
+￼Opens in a new window￼www.udemy.com
+Electronics for Beginners: Learn the Basics of Electronics Engineering by Learn Electronics Academy Udemy course
+Coursera Course: Introduction to the Internet of Things and Embedded Systems by University of California, Irvine
+￼Opens in a new window￼www.linkedin.com
+Introduction to the Internet of Things and Embedded Systems by University of California, Irvine Coursera course
+Book: Make: Electronics - Learning Through Discovery by Charles Platt
+3. Microcontrollers:
+Udemy Course: ESP32 Programming Masterclass: Build IoT Projects with ESP32 by Arseniy Andreev
+Coursera Course: Embedded Software and Hardware Architecture by University of Colorado Boulder
+￼Opens in a new window￼www.coursera.org
+Embedded Software and Hardware Architecture by University of Colorado Boulder Coursera course
+Book: Programming Arduino Getting Started with Sketches by Massimo Banzi
+4. Mathematics:
+Udemy Course: Essential Mathematics for Engineers and Scientists by Joseph Lee
+Coursera Course: Calculus for Beginners by University of California, Irvine
+￼Opens in a new window￼calculusat34.blogspot.com
+Calculus for Beginners by University of California, Irvine Coursera course
+Khan Academy Resources: Linear Algebra and Probability & Statistics courses.
+Phase 2: Deepening Your Knowledge (Sprints 5-8)
+5. Operating Systems:
+Udemy Course: FreeRTOS for Embedded Systems Programming by Embedded Systems Academy
+￼Opens in a new window￼www.slideshare.net
+FreeRTOS for Embedded Systems Programming by Embedded Systems Academy Udemy course
+Coursera Course: Real-Time Embedded Systems by University of Colorado Boulder
+￼Opens in a new window￼www.coursera.org
+RealTime Embedded Systems by University of Colorado Boulder Coursera course
+Book: Mastering FreeRTOS by Richard Barry
+6. Communication Protocols:
+Udemy Course: The Complete I2C, SPI, and UART Masterclass for Embedded Systems by Jan Axelson
+Coursera Course: An Introduction to Programming the Internet of Things (IOT) by University of California, Irvine
+￼Opens in a new window￼www.linkedin.com
+Introduction to Programming the Internet of Things (IOT) by University of California, Irvine Coursera course
+Book: Embedded Networking with CAN and Modbus by Edward Conrad
+7. Advanced Topics:
+Udemy Course: Secure Embedded Systems Design by Embedded Systems Academy
+Coursera Course: Advanced Embedded Linux Development by University of Colorado Boulder
+￼Opens in a new window￼www.coursera.org
+Advanced Embedded Linux Development by University of Colorado Boulder Coursera course
+Book: Building Wireless Sensor Networks by Charles Bellon
+Phase 3: Professional Development (Ongoing)
+Build a portfolio on GitHub, participate in hackathons, and contribute to open-source projects.
+Network with other embedded engineers online and offline, attend conferences and workshops.
+Consider certifications like Certified Embedded Systems Engineer (CESE) or Certified IoT Professional (CIoTP).
+Stay updated with the latest trends and technologies by reading technical articles, attending webinars, and participating in online communities.
+Remember:
+This is a suggested roadmap, adjust it based on your learning pace and preferences.
+Take breaks and avoid burnout, dedicate time for other activities and relaxation.
+Celebrate your progress, track your achievements to stay motivated.
+With dedication and consistent effort, you can excel in your journey to becoming an embedded systems engineer even through self-learning. Good luck!
+Sources
+info
+github.com/SohamJani/JANI_Coursera
+tuneshare
+more_vert
+add_photo_alternate
+
+mic
+Bard may display inaccurate info, including about people, so double-check its responses. Your privacy & BardOpens in a new window
