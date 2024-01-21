@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Get the current working directory
+cwd=$(pwd)
+
+# Iterate over all the video files in the current directory
+for file in "$cwd"/*.mp4; do
+
+  # Get the file name without the extension
+  filename=$(basename "$file" .mp4)
+
+  # Create a new video file with the first 6 seconds removed
+  ffmpeg -i "$file" -ss 00:00:06 -c copy "$filename-trimmed.mp4"
+
+done
